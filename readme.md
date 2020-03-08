@@ -42,7 +42,7 @@ The [audio] part in `wav.scp` can be a command that generates audio as well as l
 # How to run example
 0. Install Kaldi docker
 1. Clone this repository and [download models](https://drive.google.com/open?id=1MdvtLku_w_nG0VT1qTUfPXNGpjnTlfeo) and paste them into the repo
-2. Run `docker run -it -v $(pwd)/demo/:/opt/kaldi/demo kaldiasr/kaldi:latest bash`
+2. Run `docker run -it -v $(pwd)/kaldi-demo/:/opt/kaldi/demo kaldiasr/kaldi:latest bash`
 3. `cd demo`
 4. `./decode.sh`
 
