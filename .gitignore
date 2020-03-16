@@ -1,3 +1,5 @@
 experiment/tdnn_7b_chain_online/final.mdl
 experiment/tdnn_7b_chain_online/graph/HCLG.fst
 models
+.vscode/
+__pycache__

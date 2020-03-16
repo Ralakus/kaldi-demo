@@ -1,4 +1,4 @@
-a_0 /opt/kaldi/demo/transcriptions/log_0.wav
-a_1 /opt/kaldi/demo/transcriptions/log_1.wav
-a_2 /opt/kaldi/demo/transcriptions/log_2.wav
-a_3 /opt/kaldi/demo/transcriptions/log_3.wav
+a_0 transcriptions/log_0.wav
+a_1 transcriptions/log_1.wav
+a_2 transcriptions/log_2.wav
+a_3 transcriptions/log_3.wav
